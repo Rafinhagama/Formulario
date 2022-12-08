@@ -1,0 +1,90 @@
+
+
+.modelo1{
+    width: 400px;
+    background-image: linear-gradient(to right, red 35%, yellow 5%, yellow 60%, yellow 60%, yellow 70%, blue 10%, blue 95%);
+   
+    padding: 20px 30px 20px 50px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow:  rgb(0, 0, 0);
+    border-radius: 25px;    
+    margin: 0 auto;
+}
+h1{
+    padding: 0px 0px 10px 0px;
+    border-bottom: 3px solid #000;
+    text-align: center;
+}
+
+.titulo2{
+    font-size: 10px;
+}
+
+div{
+    margin: 10px 0px 10px ;
+}
+
+.rotulo{
+    float: left;
+    width:30%;
+    text-align:right;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.entrada{
+    border:none;
+    color: rgb(0, 0, 0);
+    height: 30px;
+    line-height: 100px;
+    padding: 5px 5px 5px 5px;
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 0px;
+    margin: 5px;
+
+}
+
+#mensagem{
+    height: 100px;
+    padding: 10px 5px 0px 5px;
+    width: 70%;
+    margin: 0 auto;
+    
+}
+
+.botao{
+    width: 100px;
+    text-align: center;
+    padding: 20px 15px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    background-color: #ffffff;
+    font-size: 20px;
+
+}
+
+.botao:hover{
+    color: rgb(255, 249, 249);
+    background-color: #030202;
+
+}
+
+.hora{
+    
+    width:30%;
+    text-align:right;
+    margin-top: 15px;
+    font-weight: bold;
+    
+    
+}
+
+.espaço{
+float: center;
+margin: 0px 50px 110px;
+
+
+}
